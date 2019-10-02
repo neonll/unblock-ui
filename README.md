@@ -73,7 +73,7 @@ fastcgi.server = ( ".php" =>
 ```
 - Download and install this repo:
 ```
-wget -P ~/ https://github.com/neonll/unblock-ui/archive/master/master.zip
+wget https://github.com/neonll/unblock-ui/archive/master/master.zip
 unzip master.zip -d /opt/share/www
 mv /opt/share/www/unblock-ui-master /opt/share/www/unblock
 rm master.zip
