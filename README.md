@@ -1,4 +1,4 @@
-# padavan-unblock-ui
+# unblock-ui
 Web interface to manage unblock list
 
 # Installation
